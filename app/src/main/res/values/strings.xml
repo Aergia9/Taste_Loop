@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">splashscreen</string>
+    <string name="filled_button">Filled Button</string>
+    <string name="outline_button">Outline Button</string>
 </resources>
